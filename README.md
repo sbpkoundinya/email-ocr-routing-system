@@ -10,6 +10,10 @@ This project is a complete email classification system with OCR functionality, d
 - Information extraction from prioritized text
 - Fullstack app: React Frontend + FastAPI Backend
 
+## Sequence Diagram
+<img width="842" alt="image" src="https://github.com/user-attachments/assets/17bb3e9a-ae44-4a66-ab7a-8d1b2a982606" />
+
+
 ## 🖼️ Frontend (React)
 - Upload email body and attachments via UI
 - View classification, routing, and extracted information
